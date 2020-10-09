@@ -1,0 +1,1 @@
+[{"name":"Vorname (A-Z)","sorts":[{"p":"FirstName","d":0}]},{"name":"Vorname (Z-A)","sorts":[{"p":"FirstName","d":1}]},{"name":"Nachname(A-Z)","sorts":[{"p":"LastName","d":0}]},{"name":"Nachname (Z-A)","sorts":[{"p":"LastName","d":1}]}]
